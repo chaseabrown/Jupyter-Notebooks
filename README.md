@@ -12,3 +12,7 @@ Collection of Jupiter Notebooks I have made. This could be anything from Code Al
 5. **Currency Predictor** - I found a sample assignment online that looked interesting. Involves exploring JPY/USD price pair over time in an attempt to find a trading pattern.
 
 6. **Currency Predictor PT2** - Here I took the information learned in PT1 and used that to clean up my code and simulate some strategies
+
+7. **Lawmaker Tracking Data Preprocessing** - There is a movement online of traders tracking the trades that lawmakers make in order to attempt to copy inside trading. My strategy is a little bit different. I am not sure whether or not lawmakers are inside trading, but I am certain that there is a movement of people that are making trades based on that information. My theory is there will be a jump in each stock as the time of discloser due to this wave of people buying. Potentially selling aswell. If I can find that pattern, there is something I can consistently trade on.
+
+8. **Lawmaker Tracking Exploratory Analysis** - Continuation of **Lawmaker Tracking Data Preprocessing** 
