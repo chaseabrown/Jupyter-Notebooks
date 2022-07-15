@@ -16,3 +16,8 @@ Collection of Jupiter Notebooks I have made. This could be anything from Code Al
 7. **Lawmaker Tracking Data Preprocessing** - There is a movement online of traders tracking the trades that lawmakers make in order to attempt to copy inside trading. My strategy is a little bit different. I am not sure whether or not lawmakers are inside trading, but I am certain that there is a movement of people that are making trades based on that information. My theory is there will be a jump in each stock as the time of discloser due to this wave of people buying. Potentially selling aswell. If I can find that pattern, there is something I can consistently trade on.
 
 8. **Lawmaker Tracking Exploratory Analysis** - Continuation of **Lawmaker Tracking Data Preprocessing** 
+
+9. **BASALT 2022 Item Classifier** - Aids my BASALT 2022 Competition submission but training a model to recognize the items in a minecraft inventory using solely a jpg of the screen. 
+
+10. **BASALT 2022 Item Quantity Classifier** - Aids my BASALT 2022 Competition submission but training a model to recognize each item's quantity in a minecraft inventory using solely a jpg of the screen. 
+
