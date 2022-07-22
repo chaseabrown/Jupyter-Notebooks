@@ -17,7 +17,10 @@ Collection of Jupiter Notebooks I have made. This could be anything from Code Al
 
 8. **Lawmaker Tracking Exploratory Analysis** - Continuation of **Lawmaker Tracking Data Preprocessing** 
 
-9. **BASALT 2022 Item Classifier** - Helped my BASALT 2022 Competition submission but training a model to recognize the items in a minecraft inventory using solely a jpg of the screen. 
+9. **BASALT 2022 Item Classifier** - Helped my BASALT 2022 Competition submission by training a model to recognize the items in a minecraft inventory using solely a jpg of the screen. 
 
-10. **BASALT 2022 Item Quantity Classifier** - Helped my BASALT 2022 Competition submission but training a model to recognize each item's quantity in a minecraft inventory using solely a jpg of the screen. 
+10. **BASALT 2022 Item Quantity Classifier** - Helped my BASALT 2022 Competition submission by training a model to recognize each item's quantity in a minecraft inventory using solely a jpg of the screen. 
 
+11. **BASALT 2022 TF-IDF MineWiki Search Engine** - Helped my BASALT 2022 Competition submission by easily allowing me and my team to get relevent information out of the MineDojo dataset. Also used SparkML to keep it quick and efficient.
+
+12. **BASALT 2022 Move Classifier Data Exploration** - Helped my BASALT 2022 Competition submission by allowing me and my team to sample and review training data for our MoveClassifier model
