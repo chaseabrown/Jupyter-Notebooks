@@ -24,3 +24,11 @@ Collection of Jupiter Notebooks I have made. This could be anything from Code Al
 11. **BASALT 2022 TF-IDF MineWiki Search Engine** - Helped my BASALT 2022 Competition submission by easily allowing me and my team to get relevent information out of the MineDojo dataset. Also used SparkML to keep it quick and efficient.
 
 12. **BASALT 2022 Move Classifier Data Exploration** - Helped my BASALT 2022 Competition submission by allowing me and my team to sample and review training data for our MoveClassifier model
+
+13. **BASALT 2022 Data Generator Class Setup** - Helped my BASALT 2022 Competition submission by setting up and testing my custom generators *StartImageGenerator* and *EndImageGenerator*. 
+
+14. **BASALT 2022 Create Search Engine for MineDojo Youtube Dataset** - A notebook demonstration of how I use TF-IDF to search through transcripts of 70k gameplay Youtube Videos distributed by MineDojo. After the success on the MineWiki search, I brought that to this problem. Doesn't work great because the words said are not as consistent in a transcript as a Wiki page. It still uses PySpark for all the data preprocessing, transformation and TF-IDF work which makes it really fast. After this I need to look into some other options for gathering information from transcripts.
+
+15. **BASALT 2022 Explore Depth and ColorMaps** - A notebook visualization of a Malmo dataset I generated for training data to feed into *BlockSegmentator.py* and *DepthEstimator.py*. Lots of visuals, tables, and pretty pictures.
+
+
